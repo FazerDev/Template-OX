@@ -1,0 +1,26 @@
+{
+  "persistentRadar": true,
+  "metricSystem": true,
+  "stamina": true,
+  "stress": false,
+  "fuel": true,
+  "circleMap": false,
+  "serverLogo": false,
+  "voice": {
+    "enabled": false,
+    "service": "pma-voice"
+  },
+  "seatbelt": {
+    "enabled": true,
+    "key": "B"
+  },
+  "menu": {
+    "enabled": false,
+    "key": "F10"
+  },
+  "refreshRates": {
+    "base": 200,
+    "status": 3000,
+    "checks": 1000
+  }
+}
